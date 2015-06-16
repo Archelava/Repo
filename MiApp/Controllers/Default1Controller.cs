@@ -13,6 +13,7 @@ namespace MiApp.Controllers
 
         public ActionResult Index()
         {
+            int b =0;
             return View();
         }
 
