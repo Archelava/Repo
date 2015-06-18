@@ -13,7 +13,7 @@ namespace MiApp.Controllers
 
         public ActionResult Index()
         {
-
+            int score = 5;
             return View();
         }
 
